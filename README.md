@@ -2,7 +2,7 @@
 
 **Author:** Junaid Iqbal shah  
 **Tech Stack:** Python, Airflow, Pandas, SQLAlchemy, PostgreSQL, Parquet, YouTube Data API  
-**Project Type:** ETL / Data Engineering Portfolio Project  
+**Project Type:** ETL / Data Engineering Project  
 
 ---
 
