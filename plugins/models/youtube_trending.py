@@ -3,6 +3,7 @@ from plugins.utils.db import Base
 
 class YouTubeTrending(Base):
     __tablename__ = "youtube_trending"
+    __table_args__ = {"extend_existing": True}
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     video_id = Column(String, nullable=False, index=True)
