@@ -50,6 +50,12 @@ flowchart TD
 - **Batch Inserts**: PostgreSQL inserts handled in batches (configurable) to optimize performance.  
 - **Logging**: All DAGs include detailed logging for monitoring and debugging.  
 - **Airflow Ready**: Fully schedulable DAGs with retries, failure alerts, and clean task separation.  
-- **Engagement Rate Calculation**: Computes likes/views ratio for each video on-the-fly.  
+- **Engagement Rate Calculation**: Computes likes/views ratio for each video on-the-fly.
+
+## Stay Connected
+
+Stay up to date and follow me on my **[LinkedIn](https://www.linkedin.com/in/junaid-iqbal-4b0037215/)**
+
+Or reach out directly via email: **[junaidiqbalshah011@gmail.com](mailto:junaidiqbalshah011@gmail.com)**
 
 
